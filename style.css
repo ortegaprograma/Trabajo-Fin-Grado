@@ -72,3 +72,26 @@ aside{
     background-color: #FFD700;  
     font-size:xx-small;  
   }
+
+  #carrusel{width: 1063px; position: absolute; height:100%}
+
+  .text { position: absolute; 
+        top: 70%; left: 60%;
+        transform: translate(-50%, -50%); 
+        color: white; 
+        font-size: 24px; 
+        font-weight: bold; 
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); }
+
+    #listaProyectos{ z-index: 1050;}
+
+    #sonido{font-size: 30px; 
+            font-weight: bold; 
+            background: linear-gradient(45deg, #fafd39, #e215f9); 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color:transparent; 
+            background-clip: text; color:#000000}
+    
+
+  
+ 
